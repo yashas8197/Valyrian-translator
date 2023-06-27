@@ -1,0 +1,16 @@
+body {
+  background-color: antiquewhite;
+}
+
+#inputSentence {
+  display: block;
+  width: 85%;
+  margin: 3rem;
+}
+
+#outputDiv {
+  background-color: white;
+  height: 20vh;
+  width: 85%;
+  margin: 3rem;
+}
